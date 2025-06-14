@@ -1,0 +1,4 @@
+CONFIGURAÇÃO INVÁLIDA PRÉ-DETECTADA
+Motivo:
+- Número de conjuntos () menor que 4
+- Blocos de 128 bytes com associatividade 8 ou maior
